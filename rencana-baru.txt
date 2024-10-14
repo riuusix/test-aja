@@ -3,7 +3,9 @@ jdhbvasdhdsajdbjbdas
 MW BUAT APA 
  # ini ada ini
  # ini versi 2
+  ^ Vue
 APA AJA
+  ^ Larabel
 INI AJA
 ITU AJA
 NAMBAH SATU
