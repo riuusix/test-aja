@@ -2,8 +2,11 @@ jdhbvasdhdsajdbjbdas
 
 MW BUAT APA 
  # ini ada ini
+  ^ Angular
+  ^ React
  # ini versi 2
 APA AJA
+ ^ Larabel
 INI AJA
 ITU AJA
 NAMBAH SATU
