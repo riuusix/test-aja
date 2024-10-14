@@ -5,8 +5,9 @@ MW BUAT APA
   ^ Angular
   ^ React
  # ini versi 2
+  ^ Vue
 APA AJA
- ^ Larabel
+ ^ Laravel
 INI AJA
 ITU AJA
 NAMBAH SATU
