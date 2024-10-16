@@ -4,6 +4,7 @@ MW BUAT APA
  # ini ada ini
   ^ Angular
   ^ React
+  ^ React
  # ini versi 2
   ^ Vue
 APA AJA
@@ -11,3 +12,4 @@ APA AJA
 INI AJA
 ITU AJA
 NAMBAH SATU
+ASJSJSJJKJAKSJAKJSJJWOIOIQWIPQOWOQWPSXNKXKXJAJ
